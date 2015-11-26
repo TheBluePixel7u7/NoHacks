@@ -1,0 +1,2 @@
+# NoHacks
+system antihacks (PocketMine)
