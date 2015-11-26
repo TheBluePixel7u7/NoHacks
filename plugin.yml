@@ -1,0 +1,4 @@
+name: NoHacks
+api: 1.13.0
+version: 1.0.0-DEV
+main: NoHacks\Main
